@@ -1,6 +1,6 @@
 ### Recent Activity
 
-2026/08/27 ｜ `[Advent_of_Code]` #2 附上程式碼區塊
+2026/08/27 ｜ `[Advent_of_Code]` #2 附上程式碼區塊 <br>
 2026/08/27 ｜ `[Advent_of_Code]` #1 產生基礎版面 (含即時計算)
 
 
