@@ -2,9 +2,9 @@
 
 | Date | Project | Update |
 | --- | --- | --- |
+| 2026/09/03 | `Advent_of_Code` | `#5` 完成 Day 04 ★★ |
 | 2026/08/31 | `Advent_of_Code` | `#4` 完成 Day 02 ★★ |
 | 2026/08/31 | `Advent_of_Code` | `#3` 做側邊欄的分頁 |
-| 2026/08/27 | `Advent_of_Code` | `#2` 附上程式碼區塊 |
 
 
 ### README
