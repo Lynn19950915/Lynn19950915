@@ -2,9 +2,9 @@
 
 | Date | Project | Update |
 | --- | --- | --- |
+| 2026/09/07 | `Advent_of_Code` | `#6` 樣式表整理、加上路由守衛 |
 | 2026/09/03 | `Advent_of_Code` | `#5` 完成 Day 04 ★★ |
 | 2026/08/31 | `Advent_of_Code` | `#4` 完成 Day 02 ★★ |
-| 2026/08/31 | `Advent_of_Code` | `#3` 做側邊欄的分頁 |
 
 
 ### README
