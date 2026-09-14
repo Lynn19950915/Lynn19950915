@@ -13,8 +13,8 @@
 
 | Project | Commits | Last Update | Skillsets |
 | --- | --- | --- | --- |
-| <a href="https://github.com/Lynn19950915/Mail_Tracker">Mail_Tracker</a> | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" /> |
-| <a href="https://github.com/Lynn19950915/Advent_of_Code">Advent_of_Code</a> | ██████░░░░░░░░░　**6** | 2026/09/07 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="25" /> |
+| <a href="https://github.com/Lynn19950915/Mail_Tracker">**Mail_Tracker**</a> | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" /> |
+| <a href="https://github.com/Lynn19950915/Advent_of_Code">**Advent_of_Code**</a> | ██████░░░░░░░░░　**6** | 2026/09/07 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="25" /> |
 
 
 ### Github Stats
