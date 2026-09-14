@@ -13,10 +13,10 @@
 
 | Project | Commits | Last Update | Skillsets |
 | --- | --- | --- | --- |
-| Mail_Tracker | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" /> |
-| Advent_of_Code | ██████░░░░░░░░░　**6** | 2026/09/07 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" /> |
+| Mail_Tracker | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" /> |
+| Advent_of_Code | ██████░░░░░░░░░　**6** | 2026/09/07 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="25" /> |
 
 
-### Stats
+### Github Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lynn19950915)](https://github.com/LordDashMe/github-contribution-stats/)
