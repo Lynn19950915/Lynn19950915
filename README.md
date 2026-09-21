@@ -17,4 +17,6 @@
 | 2 | <a href="https://github.com/Lynn19950915/Mail_Tracker">**Mail_Tracker**</a> | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" /> |
 <br>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lynn19950915)](https://github.com/LordDashMe/github-contribution-stats/)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
