@@ -1,22 +1,73 @@
 ### Recent Activities
 
-| Date | Project | Update |
-| --- | --- | --- |
-| 2026/09/11 | Mail_Tracker | `#2` 週期更新、立刻更新 |
-| 2026/09/10 | Mail_Tracker | `#1` 取得信件統計及未讀數量 |
-| 2026/09/07 | Advent_of_Code | `#6` 樣式表整理、加上路由守衛 |
-| 2026/09/03 | Advent_of_Code | `#5` 完成 Day 04 ★★ |
-| 2026/08/31 | Advent_of_Code | `#4` 完成 Day 02 ★★ |
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Project Updates</th>
+    <th>Summary</th>
+  </tr>
+  <tr>
+    <td>2026/09/29</td>
+    <td><img src="https://img.shields.io/badge/File_in_Order-2-mediumpurple?style=for-the-badge"> 檔案命名的動態預覽</td>
+    <!-- 跨行顯示的歷程摘要 -->
+    <td rowspan="5">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynn19950915&theme=solarized&exclude=php,Zig">
+    </td>
+  </tr>
+  <tr>
+    <td>2026/09/20</td>
+    <td><img src="https://img.shields.io/badge/File_in_Order-1-mediumpurple?style=for-the-badge"> 自訂排序及命名規則</td>
+  </tr>
+  <tr>
+    <td>2026/09/11</td>
+    <td><img src="https://img.shields.io/badge/Mail_Tracker-2-orange?style=for-the-badge"> 週期更新、立刻更新</td>
+  </tr>
+  <tr>
+    <td>2026/09/10</td>
+    <td><img src="https://img.shields.io/badge/Mail_Tracker-1-orange?style=for-the-badge"> 取得信件統計及未讀數量</td>
+  </tr>
+  <tr>
+    <td>2026/09/07</td>
+    <td><img src="https://img.shields.io/badge/Advent_of_Code-6-aqua?style=for-the-badge"> 樣式表整理、加上路由守衛</td>
+  </tr>
+</table>
 
 
 ### Development Footprints
 
-| # | Project | Commits | Last Update | Skillsets |
-| --- | --- | --- | --- | --- |
-| 1 | <a href="https://github.com/Lynn19950915/Advent_of_Code">**Advent_of_Code**</a> | ██████░░░░░░░░░　**6** | 2026/09/07 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="25" /> |
-| 2 | <a href="https://github.com/Lynn19950915/Mail_Tracker">**Mail_Tracker**</a> | ██░░░░░░░░░░░░░　**2** | 2026/09/11 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" /> |
-<br>
-
-![](https://github.com/Lynn19950915/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/Lynn19950915/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+<table>
+  <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Commits</th>
+    <th>Last Update</th>
+    <th>Skillsets</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <a href="https://github.com/Lynn19950915/Advent_of_Code"><img src="https://img.shields.io/badge/Advent_of_Code-gray?style=for-the-badge"></a>
+    </td>
+    <th><img src="https://img.shields.io/badge/6-aqua?style=for-the-badge"></th>
+    <td>2026/09/07</td>
+    <td><img src="https://skillicons.dev/icons?i=js,css,html,vue" width="126"></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>
+      <a href="https://github.com/Lynn19950915/Mail_Tracker"><img src="https://img.shields.io/badge/Mail_Tracker-gray?style=for-the-badge"></a>
+    </td>
+    <th><img src="https://img.shields.io/badge/2-orange?style=for-the-badge"></th>
+    <td>2026/09/11</td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="30"></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>
+      <a href="https://github.com/Lynn19950915/Mail_Tracker"><img src="https://img.shields.io/badge/File_in_Order-gray?style=for-the-badge"></a>
+    </td>
+    <th><img src="https://img.shields.io/badge/2-mediumpurple?style=for-the-badge"></th>
+    <td>2026/09/29</td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="30"></td>
+  </tr>
+</table>
