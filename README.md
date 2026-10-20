@@ -15,7 +15,6 @@
     </td>
   </tr>
   <tr>
-  <tr>
     <td>2026/10/17</td>
     <td><img src="https://img.shields.io/badge/Veggie_Pocket-2-lime?style=for-the-badge"> 修正時區、重構 routers</td>
   </tr>
