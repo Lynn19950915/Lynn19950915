@@ -6,13 +6,17 @@
     <th>Project Updates</th>
     <th>Summary</th>
   </tr>
-  <tr>
-    <td>2026/10/20</td>
-    <td><img src="https://img.shields.io/badge/Veggie_Pocket-3-lime?style=for-the-badge"> 完成品牌牆卡片設計</td>
+   <tr>
+    <td>2026/10/22</td>
+    <td><img src="https://img.shields.io/badge/Veggie_Pocket-4-lime?style=for-the-badge"> 區分品牌 / 店家卡，調整 RWD</td>
     <!-- 跨行顯示的歷程摘要 -->
     <td rowspan="5">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynn19950915&theme=solarized&exclude=php,Zig">
     </td>
+  </tr>
+  <tr>
+    <td>2026/10/20</td>
+    <td><img src="https://img.shields.io/badge/Veggie_Pocket-3-lime?style=for-the-badge"> 完成品牌牆卡片設計</td>
   </tr>
   <tr>
     <td>2026/10/17</td>
@@ -25,10 +29,6 @@
   <tr>
     <td>2026/09/29</td>
     <td><img src="https://img.shields.io/badge/File_in_Order-2-mediumpurple?style=for-the-badge"> 檔案命名的動態預覽</td>
-  </tr>
-  <tr>
-    <td>2026/09/20</td>
-    <td><img src="https://img.shields.io/badge/File_in_Order-1-mediumpurple?style=for-the-badge"> 自訂排序及命名規則</td>
   </tr>
 </table>
 
@@ -75,8 +75,8 @@
     <td>
       <a href="https://github.com/Lynn19950915/Veggie_Pocket"><img src="https://img.shields.io/badge/Veggie_Pocket-gray?style=for-the-badge"></a>
     </td>
-    <th><img src="https://img.shields.io/badge/3-lime?style=for-the-badge"></th>
-    <td>2026/10/20</td>
+    <th><img src="https://img.shields.io/badge/4-lime?style=for-the-badge"></th>
+    <td>2026/10/22</td>
     <td><img src="https://skillicons.dev/icons?i=python,css,html" width="93"></td>
   </tr>
 </table>
