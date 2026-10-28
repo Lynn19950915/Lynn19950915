@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>2026/10/28</td>
-    <td><img src="https://img.shields.io/badge/Veggie_Pocket-5-lime?style=for-the-badge"> 加上區域、類型篩選及統計圖表</td>
+    <td><img src="https://img.shields.io/badge/Veggie_Pocket-5-lime?style=for-the-badge"> 加上區域、類型篩選及統計表</td>
     <!-- 跨行顯示的歷程摘要 -->
     <td rowspan="5">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynn19950915&theme=solarized&exclude=php,Zig">
