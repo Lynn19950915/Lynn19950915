@@ -7,7 +7,7 @@
     <th>Summary</th>
   </tr>
   <tr>
-    <td>2026/11/05</td>
+    <td>2026/11/08</td>
     <td><img src="https://img.shields.io/badge/Veggie_Pocket-6-lime?style=for-the-badge"> 部署餐廳 db 及測試站</td>
     <!-- 跨行顯示的歷程摘要 -->
     <td rowspan="5">
