@@ -8,11 +8,15 @@
   </tr>
   <tr>
     <td>2026/11/05</td>
-    <td><img src="https://img.shields.io/badge/Mail_Tracker-3-orange?style=for-the-badge"> 個人化設定、RefreshError</td>
+    <td><img src="https://img.shields.io/badge/Mail_Tracker-6-lime?style=for-the-badge"> 部署餐廳 db 及測試站</td>
     <!-- 跨行顯示的歷程摘要 -->
     <td rowspan="5">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynn19950915&theme=solarized&exclude=php,Zig">
     </td>
+  </tr>
+  <tr>
+    <td>2026/11/05</td>
+    <td><img src="https://img.shields.io/badge/Mail_Tracker-3-orange?style=for-the-badge"> 個人化設定、RefreshError</td>
   </tr>
   <tr>
     <td>2026/10/28</td>
@@ -25,10 +29,6 @@
   <tr>
     <td>2026/10/20</td>
     <td><img src="https://img.shields.io/badge/Veggie_Pocket-3-lime?style=for-the-badge"> 完成品牌牆卡片設計</td>
-  </tr>
-  <tr>
-    <td>2026/10/17</td>
-    <td><img src="https://img.shields.io/badge/Veggie_Pocket-2-lime?style=for-the-badge"> 修正時區、重構 routers</td>
   </tr>
 </table>
 
@@ -75,8 +75,8 @@
     <td>
       <a href="https://github.com/Lynn19950915/Veggie_Pocket"><img src="https://img.shields.io/badge/Veggie_Pocket-gray?style=for-the-badge"></a>
     </td>
-    <th><img src="https://img.shields.io/badge/5-lime?style=for-the-badge"></th>
-    <td>2026/10/28</td>
+    <th><img src="https://img.shields.io/badge/6-lime?style=for-the-badge"></th>
+    <td>2026/11/08</td>
     <td><img src="https://skillicons.dev/icons?i=python,css,html" width="93"></td>
   </tr>
 </table>
